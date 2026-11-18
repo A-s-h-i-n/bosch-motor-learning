@@ -1,3 +1,6 @@
+# 1. Create a virtual environment and install numpy and matplotlib.
+# 2. Write day01.py that creates time values from 0 to 5 seconds, models a simple voltage step (0 V before 1 s, 12 V afterward), and plots voltage versus time with labelled axes and a title.
+# 3. Save the graph as day01_voltage.png.
 import numpy as np
 import matplotlib.pyplot as plt
 
